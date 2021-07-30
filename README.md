@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kumar Utkarsh, a back-end software engineer
 - 👀 I’m interested in distributed backend systems
-- 🌱 I’m currently learning to handle scalable applications
+- 🌱 I’m currently learning to handle scalable applications with the help of middlewares
 - 📫 Reach me at kutkarsh141@gmail.com
 
 <!---
